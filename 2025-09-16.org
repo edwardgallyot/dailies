@@ -7,5 +7,5 @@
 * TODO Finish off MIDI wiring in studio.
 This should be fairly simple based on the notes in [[id:0150c50a-c5de-4006-9889-733b713aba6c][MidiPatch]].
 * TODO Have a look at HISE for Matt.
-** TODO Make notes a git repo so that I can use them on windows.
+** DONE Make notes a git repo so that I can use them on windows.
 ** TODO See if the HISE experience is any better on windows, it surely is.
