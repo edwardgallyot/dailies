@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c150949a-a541-47ce-b3b8-6c860b89d6a1
+:END:
+#+title: 2025-09-16
+* TODO Make some Lisp Progress
+** TODO Read Chapter 4 of Land of Lisp in [[id:7d4a46b0-7082-4813-a44c-176587308907][Books]].
+* TODO Finish off MIDI wiring in studio.
+This should be fairly simple based on the notes in [[id:0150c50a-c5de-4006-9889-733b713aba6c][MidiPatch]].
+* TODO Have a look at HISE for Matt.
+** TODO Make notes a git repo so that I can use them on windows.
+** TODO See if the HISE experience is any better on windows, it surely is.
